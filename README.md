@@ -24,13 +24,17 @@ BFFNet主要由编码网络、边界特征提取模块和特征交叉融合模�
 
 **FCFM:特征交叉融合模块**
 
-![image](./images/fig-3.png)
+<div align="center">
+  <img src="images/fig-3.png" alt="特征交叉融合模块" />
+</div>
 
 
 
 **BFEM:边界特征提取模块**
 
-![image](./images/fig-2.png)
+<div align="center">
+  <img src="images/fig-2.png" alt="边界特征提取模块" />
+</div>
 
 **算法代码：**
 
