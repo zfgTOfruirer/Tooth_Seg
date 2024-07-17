@@ -16,7 +16,9 @@ BFFNet主要由编码网络、边界特征提取模块和特征交叉融合模�
 
 **算法结构图：**
 
-![image](./images/fig-1.png)
+<div align="center">
+  <img src="images/fig-1.png" alt="算法结构图" />
+</div>
 
 **BFFNet**:**在PraNet的基础上，改进添加BFEM模块与FCFM模块。使算法提取全局特征的同时重点关注边界特征。**
 
