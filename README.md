@@ -26,16 +26,20 @@ BFFNet主要由编码网络、边界特征提取模块和特征交叉融合模�
 
 **BFFNet**:**在PraNet的基础上，改进添加BFEM模块与FCFM模块。使算法提取全局特征的同时重点关注边界特征。**
 
-![](./images/fig-1.png)
+<div align="center">
+  <img src="images/fig-1.png" alt="图"   width="100%"/>
+</div>
 
 **FCFM:特征交叉融合模块**
-
-![](.\images\fig-3.png)
+<div align="center">
+  <img src="images/fig-3.png" alt="图"   width="50%"/>
+</div>
 
 **BFEM:边界特征提取模块**
 
-![](.\images\fig-2.png)
-
+<div align="center">
+  <img src="images/fig-2.png" alt="图"   width="50%"/>
+</div>
 
 
 ## **算法代码：**
@@ -61,16 +65,18 @@ README.md：项目说明
 **其他成员：Li Zheng**
 
 
-
 ## 竞赛结果：
 
 **上传系统，官方指标得分0.903，本地评分：0.91**
 
-![](.\images\fig-5.png)
-
+<div align="center">
+  <img src="images/fig-5.png" alt="图"   width="50%"/>
+</div>
 
 
 **竞赛成果与另一位参赛伙伴Li Zheng 共同撰写论文，已被MICCAI workshop 录用**
 
-![](.\images\fig-4.png)
+<div align="center">
+  <img src="images/fig-4.png" alt="图"   width="50%"/>
+</div>
 
