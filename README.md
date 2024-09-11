@@ -2,7 +2,7 @@
 
 ## **竞赛成果：**
 
-录用MACCAI workshop 论文一篇
+录用MICCAI workshop 论文一篇
 
 
 
