@@ -74,8 +74,8 @@ README.md：项目说明
 </div>
 
 
-**竞赛成果与另一位参赛伙伴Li Zheng 共同撰写论文，已被MICCAI workshop 录用**
-
+**竞赛成果与另一位参赛伙伴Li Zheng 共同撰写论文，已被MICCAI workshop 录用,待检索**
+论文：https://www.arxiv.org/abs/2409.03982
 <div align="center">
   <img src="images/fig-4.png" alt="图"   width="50%"/>
 </div>
